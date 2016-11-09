@@ -21,7 +21,7 @@ build/_vendor/pkg
 *~
 .project
 .settings
-
+.vscode
 # used by the Makefile
 /build/_workspace/
 /build/bin/
