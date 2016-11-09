@@ -1,3 +1,8 @@
+## To compile mobile
+`gomobile bind -target=android github.com/phillyfan1138/go-ethereum/mobile`
+This requires gomobile package etc as described in https://github.com/golang/go/wiki/Mobile.
+
+
 ## Ethereum Go
 
 Official golang implementation of the Ethereum protocol
